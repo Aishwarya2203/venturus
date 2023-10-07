@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/venturus/static/css/main.7c128fe4.css",
-    "main.js": "/venturus/static/js/main.cd495014.js",
+    "main.css": "/venturus/static/css/main.0421c890.css",
+    "main.js": "/venturus/static/js/main.318f2567.js",
     "index.html": "/venturus/index.html",
-    "main.7c128fe4.css.map": "/venturus/static/css/main.7c128fe4.css.map",
-    "main.cd495014.js.map": "/venturus/static/js/main.cd495014.js.map"
+    "main.0421c890.css.map": "/venturus/static/css/main.0421c890.css.map",
+    "main.318f2567.js.map": "/venturus/static/js/main.318f2567.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c128fe4.css",
-    "static/js/main.cd495014.js"
+    "static/css/main.0421c890.css",
+    "static/js/main.318f2567.js"
   ]
 }
