@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/venturus/static/css/main.0421c890.css",
-    "main.js": "/venturus/static/js/main.8f8b7903.js",
+    "main.js": "/venturus/static/js/main.b2d7858c.js",
     "static/media/VenturusL.png": "/venturus/static/media/VenturusL.c868b0d66a8fe24762e8.png",
     "index.html": "/venturus/index.html",
     "main.0421c890.css.map": "/venturus/static/css/main.0421c890.css.map",
-    "main.8f8b7903.js.map": "/venturus/static/js/main.8f8b7903.js.map"
+    "main.b2d7858c.js.map": "/venturus/static/js/main.b2d7858c.js.map"
   },
   "entrypoints": [
     "static/css/main.0421c890.css",
-    "static/js/main.8f8b7903.js"
+    "static/js/main.b2d7858c.js"
   ]
 }
